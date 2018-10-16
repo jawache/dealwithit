@@ -4,4 +4,4 @@
 # Ignoring generated typescript files
 *.js
 *.map
-
+/notes.md
